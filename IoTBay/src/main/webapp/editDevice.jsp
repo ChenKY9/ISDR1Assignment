@@ -1,4 +1,4 @@
-<%@page import="com.mycompany.iotbay.model.Device"%>
+<%@page import="com.uts.iotbay.model.Device"%>
 <%@page import="java.util.List"%>
 <%@include file="top.jsp" %>
 <%

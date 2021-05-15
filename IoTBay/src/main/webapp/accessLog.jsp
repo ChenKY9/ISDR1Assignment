@@ -1,5 +1,5 @@
 <%@page import="java.util.List"%>
-<%@page import="com.mycompany.iotbay.model.AccessLog"%>
+<%@page import="com.uts.iotbay.model.AccessLog"%>
 <%@include file="top.jsp" %>
 <%
     List<AccessLog> list = (List<AccessLog>) request.getAttribute("alist");

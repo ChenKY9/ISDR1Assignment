@@ -1,5 +1,5 @@
-<%@page import="com.mycompany.iotbay.model.Order"%>
-<%@page import="com.mycompany.iotbay.model.Payment"%>
+<%@page import="com.uts.iotbay.model.Order"%>
+<%@page import="com.uts.iotbay.model.Payment"%>
 <%@include file="top.jsp" %>
 <%
     Order p = (Order) request.getAttribute("order");

@@ -1,4 +1,4 @@
-<%@page import="com.mycompany.iotbay.model.User"%>
+<%@page import="com.uts.iotbay.model.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%
     User currentUser = null;

@@ -1,5 +1,5 @@
 <%@page import="java.util.List"%>
-<%@page import="com.mycompany.iotbay.model.Payment"%>
+<%@page import="com.uts.iotbay.model.Payment"%>
 <%@include file="top.jsp" %>
 <%
     List<Payment> list = (List<Payment>) request.getAttribute("list");
