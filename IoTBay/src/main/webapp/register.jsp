@@ -10,7 +10,7 @@
     <body class="bg-light">
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand" href="./">Navbar</a>
+                <a class="navbar-brand" href="./">IoTBay</a>
             </div>
         </nav>
         <div class="container-md mt-4 bg-white shadow p-3">
